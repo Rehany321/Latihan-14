@@ -1,0 +1,19 @@
+/* body {
+    background-color: #d3e7eb;
+} */
+
+nav {
+    background-color: #d3e0e2;
+    margin-bottom: 25px;
+}
+
+.navbar-brand img {
+    max-height: 80px;
+}
+
+table img {
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
